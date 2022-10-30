@@ -1,5 +1,5 @@
 #define DESTRUCT_MANAGER_ACTIVATE_DEFINES
-#include "destruct_manager.h"
+#include "include/destruct_manager.h"
 #include <stdlib.h>
 #include <stdio.h>
 
